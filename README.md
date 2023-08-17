@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Fahrizky Syihabudin Ibrahim**.\
-Saya seorang **Mahasiswa** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Mahasiswa** dan sedang belajar di [Dicoding](https://www.dicoding.com/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/fahrizky-syihabudin-ibrahim/))ku ya.
  
 <p align="left">
